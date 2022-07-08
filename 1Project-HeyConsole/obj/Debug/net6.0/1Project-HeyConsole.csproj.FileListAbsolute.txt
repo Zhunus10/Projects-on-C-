@@ -1,0 +1,15 @@
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\bin\Debug\net6.0\1Project-HeyConsole.exe
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\bin\Debug\net6.0\1Project-HeyConsole.deps.json
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\bin\Debug\net6.0\1Project-HeyConsole.runtimeconfig.json
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\bin\Debug\net6.0\1Project-HeyConsole.dll
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\bin\Debug\net6.0\1Project-HeyConsole.pdb
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\obj\Debug\net6.0\1Project-HeyConsole.csproj.AssemblyReference.cache
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\obj\Debug\net6.0\1Project-HeyConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\obj\Debug\net6.0\1Project-HeyConsole.AssemblyInfoInputs.cache
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\obj\Debug\net6.0\1Project-HeyConsole.AssemblyInfo.cs
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\obj\Debug\net6.0\1Project-HeyConsole.csproj.CoreCompileInputs.cache
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\obj\Debug\net6.0\1Project-HeyConsole.dll
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\obj\Debug\net6.0\refint\1Project-HeyConsole.dll
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\obj\Debug\net6.0\1Project-HeyConsole.pdb
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\obj\Debug\net6.0\1Project-HeyConsole.genruntimeconfig.cache
+C:\Users\samsu\Desktop\C# projects\1Project-HeyConsole\obj\Debug\net6.0\ref\1Project-HeyConsole.dll
